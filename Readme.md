@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 ## Contact
 
-For any questions or inquiries, please contact [your contact information].
+For any questions or inquiries, please contact patwarinavin9@gmail.com.
