@@ -16,7 +16,7 @@ The credit score predictor offers the following features:
   - Age
   - Employment type
   - Number of credit cards
-  - Number of bank accounts
+  - Number of bank accounts!
   - Occupation
 
 - **Credit Score Classification**: The predictor classifies the input into one of the following credit score categories:
@@ -25,8 +25,8 @@ The credit score predictor offers the following features:
   - Good
 
 ## Demo
+[credit-score-prediction-google-chrome-2023-05-28-23-52-36_uCGlepkJ](https://github.com/pnavin9/Credit-Score-Predictor/assets/106406724/55daac69-fc61-47c1-a13a-d98cfe78280e)
 
-A demo of the credit score predictor in action is available in GIF format. You can view the demo [here](demo.gif).
 
 ## Getting Started
 
