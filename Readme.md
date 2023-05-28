@@ -26,6 +26,8 @@ The credit score predictor offers the following features:
 
 ## Demo
 [credit-score-prediction-google-chrome-2023-05-28-23-52-36_uCGlepkJ](https://github.com/pnavin9/Credit-Score-Predictor/assets/106406724/55daac69-fc61-47c1-a13a-d98cfe78280e)
+![credit-score-prediction-google-chrome-2023-05-28-23-52-36_uCGlepkJ](https://github.com/pnavin9/Credit-Score-Predictor/assets/106406724/3d7bcef2-2275-41e6-91fe-0d218b48da91)
+
 
 
 ## Getting Started
